@@ -1,0 +1,8 @@
+{
+	"TestMode":"$false",
+	"GitBranch":"main",
+	"GitURI":"http://",
+	"ExampleVar1":"test",
+	"ExampleVar2":1,
+	"ExampleVar3":["value","script"]
+}

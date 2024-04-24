@@ -1,0 +1,986 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20240318123659
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+Name        : Mode
+Description :
+Value       : Prod
+Visibility  : Public
+Module      :
+ModuleName  :
+Options     : None
+Attributes  : {}
+
+
+Name        : GitBranch
+Description :
+Value       : main
+Visibility  : Public
+Module      :
+ModuleName  :
+Options     : None
+Attributes  : {}
+
+
+Name        : GitURI
+Description :
+Value       : http://
+Visibility  : Public
+Module      :
+ModuleName  :
+Options     : None
+Attributes  : {}
+
+
+Name        : ExampleVar1
+Description :
+Value       : test
+Visibility  : Public
+Module      :
+ModuleName  :
+Options     : None
+Attributes  : {}
+
+
+Name        : ExampleVar2
+Description :
+Value       : 1
+Visibility  : Public
+Module      :
+ModuleName  :
+Options     : None
+Attributes  : {}
+
+Loading functions...
+sample_function loaded...
+Script is running in Prod. Executing main...
+0
+
+Ticks             : 1569537
+Days              : 0
+Hours             : 0
+Milliseconds      : 156
+Minutes           : 0
+Seconds           : 0
+TotalDays         : 1.81659375E-06
+TotalHours        : 4.359825E-05
+TotalMilliseconds : 156.9537
+TotalMinutes      : 0.002615895
+TotalSeconds      : 0.1569537
+
+**********************
+Windows PowerShell transcript end
+End time: 20240318123659
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318124010
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+**********************
+Windows PowerShell transcript end
+End time: 20240318124010
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318141921
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+**********************
+Windows PowerShell transcript end
+End time: 20240318141921
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318141929
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Loading functions...
+sample_function loaded...
+Script is running in . Executing main...
+0
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 0
+Milliseconds      : 147
+Ticks             : 1472224
+TotalDays         : 1.70396296296296E-06
+TotalHours        : 4.08951111111111E-05
+TotalMinutes      : 0.00245370666666667
+TotalSeconds      : 0.1472224
+TotalMilliseconds : 147.2224
+
+**********************
+Windows PowerShell transcript end
+End time: 20240318141929
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318142058
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Not using an external configuration/variable file.
+Loading functions...
+sample_function loaded...
+Script is running in . Executing main...
+0
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 0
+Milliseconds      : 180
+Ticks             : 1809519
+TotalDays         : 2.09435069444444E-06
+TotalHours        : 5.02644166666667E-05
+TotalMinutes      : 0.003015865
+TotalSeconds      : 0.1809519
+TotalMilliseconds : 180.9519
+
+**********************
+Windows PowerShell transcript end
+End time: 20240318142058
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318142749
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Not using an external configuration/variable file.
+Loading functions...
+sample_function loaded...
+Script is running in . Executing main...
+0
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 0
+Milliseconds      : 157
+Ticks             : 1579159
+TotalDays         : 1.82773032407407E-06
+TotalHours        : 4.38655277777778E-05
+TotalMinutes      : 0.00263193166666667
+TotalSeconds      : 0.1579159
+TotalMilliseconds : 157.9159
+
+**********************
+Windows PowerShell transcript end
+End time: 20240318142749
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318142758
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+**********************
+Windows PowerShell transcript end
+End time: 20240318142758
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318143126
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+**********************
+Windows PowerShell transcript end
+End time: 20240318143126
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318143137
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Not using an external configuration/variable file.
+Loading functions...
+sample_function loaded...
+Script is running in . Executing main...
+0
+
+
+Days              : 0
+Hours             : 0
+Minutes           : 0
+Seconds           : 0
+Milliseconds      : 145
+Ticks             : 1459156
+TotalDays         : 1.68883796296296E-06
+TotalHours        : 4.05321111111111E-05
+TotalMinutes      : 0.00243192666666667
+TotalSeconds      : 0.1459156
+TotalMilliseconds : 145.9156
+
+**********************
+Windows PowerShell transcript end
+End time: 20240318143137
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318143145
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+**********************
+Windows PowerShell transcript end
+End time: 20240318143146
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318143158
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+**********************
+Windows PowerShell transcript end
+End time: 20240318143158
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318143339
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+VERBOSE: Performing the operation "Remove variable" on target "Name: Mode".
+VERBOSE: Performing the operation "Remove variable" on target "Name: GitBranch".
+VERBOSE: Performing the operation "Remove variable" on target "Name: GitURI".
+VERBOSE: Performing the operation "Remove variable" on target "Name: ExampleVar1".
+VERBOSE: Performing the operation "Remove variable" on target "Name: ExampleVar2".
+**********************
+Windows PowerShell transcript end
+End time: 20240318143339
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318143436
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+VERBOSE: Performing the operation "Remove variable" on target "Name: Mode".
+VERBOSE: Performing the operation "Remove variable" on target "Name: GitBranch".
+VERBOSE: Performing the operation "Remove variable" on target "Name: GitURI".
+VERBOSE: Performing the operation "Remove variable" on target "Name: ExampleVar1".
+VERBOSE: Performing the operation "Remove variable" on target "Name: ExampleVar2".
+**********************
+Windows PowerShell transcript end
+End time: 20240318143437
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318143531
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+VERBOSE: Performing the operation "Remove variable" on target "Name: Mode".
+VERBOSE: Performing the operation "Remove variable" on target "Name: GitBranch".
+VERBOSE: Performing the operation "Remove variable" on target "Name: GitURI".
+VERBOSE: Performing the operation "Remove variable" on target "Name: ExampleVar1".
+VERBOSE: Performing the operation "Remove variable" on target "Name: ExampleVar2".
+**********************
+Windows PowerShell transcript end
+End time: 20240318143531
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318143600
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+VERBOSE: Performing the operation "Remove variable" on target "Name: Mode".
+VERBOSE: Performing the operation "Remove variable" on target "Name: GitBranch".
+VERBOSE: Performing the operation "Remove variable" on target "Name: GitURI".
+VERBOSE: Performing the operation "Remove variable" on target "Name: ExampleVar1".
+VERBOSE: Performing the operation "Remove variable" on target "Name: ExampleVar2".
+**********************
+Windows PowerShell transcript end
+End time: 20240318143600
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318143829
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:00.1422299
+**********************
+Windows PowerShell transcript end
+End time: 20240318143829
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318143857
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:00.1684419
+**********************
+Windows PowerShell transcript end
+End time: 20240318143857
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318144022
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:00.2111078
+**********************
+Windows PowerShell transcript end
+End time: 20240318144023
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318144134
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:10.2045576
+**********************
+Windows PowerShell transcript end
+End time: 20240318144144
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318144548
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:10.2057383
+**********************
+Windows PowerShell transcript end
+End time: 20240318144558
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318144609
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Not using an external configuration/variable file.
+Loading functions...
+sample_function loaded...
+Script is running in . Executing main...
+Script execution duration: 00:00:10.1115254
+**********************
+Windows PowerShell transcript end
+End time: 20240318144619
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318145735
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:00.1833094
+**********************
+Windows PowerShell transcript end
+End time: 20240318145736
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318145819
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:00.1432129
+**********************
+Windows PowerShell transcript end
+End time: 20240318145820
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318145822
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:00.1121158
+**********************
+Windows PowerShell transcript end
+End time: 20240318145823
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318145915
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Name        Value
+----        -----
+Mode        Prod
+GitBranch   main
+GitURI      http://
+ExampleVar1 test
+ExampleVar2 1
+Variable ExampleVar3 is already in use in this PowerShell Environment.
+Loading functions...
+Script is running in Prod. Executing main...
+Script execution duration: 00:00:01.9672661
+**********************
+Windows PowerShell transcript end
+End time: 20240318145917
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318150125
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:00.1244631
+**********************
+Windows PowerShell transcript end
+End time: 20240318150125
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318150258
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:00.1193250
+**********************
+Windows PowerShell transcript end
+End time: 20240318150258
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318150302
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+
+sample_function loaded...
+Script execution duration: 00:00:00.1588628
+**********************
+Windows PowerShell transcript end
+End time: 20240318150302
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20240318150429
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 36328
+PSVersion: 5.1.22621.2506
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22621.2506
+BuildVersion: 10.0.22621.2506
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+Variable TestMode is already in use in this PowerShell Environment.
+
+sample_function loaded...
+Script execution duration: 00:00:00.1757361
+**********************
+Windows PowerShell transcript end
+End time: 20240318150429
+**********************
+﻿**********************
+PowerShell transcript start
+Start time: 20240318154903
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Program Files\WindowsApps\Microsoft.PowerShell_7.4.1.0_x64__8wekyb3d8bbwe\pwsh.dll
+Process ID: 22428
+PSVersion: 7.4.1
+PSEdition: Core
+GitCommitId: 7.4.1
+OS: Microsoft Windows 10.0.22621
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1, 6.0, 7.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is C:\Scripts\PS-Template\log\PS-Template.log
+Not using an external configuration/variable file.
+Loading functions...
+sample_function loaded...
+Script is running in test mode: False. Executing main...
+Script execution duration: 00:00:00.5192305
+**********************
+PowerShell transcript end
+End time: 20240318154903
+**********************
+﻿**********************
+PowerShell transcript start
+Start time: 20240318154909
+Username: UTMCK\EBDuncan
+RunAs User: UTMCK\EBDuncan
+Configuration Name: 
+Machine: UPAF150LT533039 (Microsoft Windows NT 10.0.22621.0)
+Host Application: C:\Program Files\WindowsApps\Microsoft.PowerShell_7.4.1.0_x64__8wekyb3d8bbwe\pwsh.dll
+Process ID: 22428
+PSVersion: 7.4.1
+PSEdition: Core
+GitCommitId: 7.4.1
+OS: Microsoft Windows 10.0.22621
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1, 6.0, 7.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is C:\Scripts\PS-Template\log\PS-Template.log
+Using PS-Template.cfg.json...
+Variable TestMode is already in use in this PowerShell Environment.
+
+sample_function loaded...
+Script execution duration: 00:00:00.3287397
+**********************
+PowerShell transcript end
+End time: 20240318154910
+**********************
